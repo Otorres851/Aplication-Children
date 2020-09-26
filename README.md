@@ -1,4 +1,3 @@
-# Proyecto-Fiesta-Niños
 
 # Diseño y Prototipo de la aplicación
 
